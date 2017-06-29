@@ -2,23 +2,6 @@
   { "name": "bug", "color": "#ee3f46" },
   { "name": "security", "color": "#ee3f46" },
 
-  { "name": "chore", "color": "#fef2c0" },
-
-  { "name": "copy", "color": "#ffc274" },
-  { "name": "ux", "color": "#ffc274" },
-
-  { "name": "discussion", "color": "#cc317c" },
-  { "name": "rfc", "color": "#cc317c" },
-  { "name": "question", "color": "#cc317c" },
-
-  { "name": "enhancement", "color": "#5ebeff" },
-  { "name": "optimization", "color": "#5ebeff" },
-
-  { "name": "feature", "color": "#91ca55" },
-
-  { "name": "in progress", "color": "#fbca04" },
-  { "name": "watchlist", "color": "#fbca04" },
-
   { "name": "invalid", "color": "#d2dae1" },
   { "name": "wontfix", "color": "#d2dae1" },
   { "name": "duplicate", "color": "#d2dae1" }
